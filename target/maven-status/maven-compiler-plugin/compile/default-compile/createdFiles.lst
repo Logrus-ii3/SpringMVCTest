@@ -1,0 +1,12 @@
+ru\igrinenko\playground\webmvc\dao\ArtistMssqlDao.class
+ru\igrinenko\playground\webmvc\api\ViewsPaths.class
+ru\igrinenko\playground\webmvc\rest\ArtistsList.class
+ru\igrinenko\playground\webmvc\dao\ArtistDummyDao.class
+ru\igrinenko\playground\webmvc\dao\rowmappers\ArtistRowMapper.class
+ru\igrinenko\playground\webmvc\api\Artist.class
+ru\igrinenko\playground\webmvc\api\ListService.class
+ru\igrinenko\playground\webmvc\impl\ArtistsService.class
+ru\igrinenko\playground\webmvc\FriendlyClass.class
+ru\igrinenko\playground\webmvc\views\Views.class
+ru\igrinenko\playground\webmvc\api\dao\SimpleDao.class
+ru\igrinenko\playground\webmvc\api\SimpleService.class
